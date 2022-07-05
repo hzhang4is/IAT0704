@@ -28,12 +28,12 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/IAT/qualt
 				height : 4 //Used to position the "Or" in the combined block.
 			}, 
 			stimulusMedia : [ //Stimuli content as PIP's media objects
-    		    {word : 'yf1.jpg'}, 
-    			{word : 'yf4.jpg'}, 
-    			{word : 'yf5.jpg'}, 
-    			{word : 'ym2.jpg'}, 
-    			{word : 'ym3.jpg'}, 
-    			{word : 'ym5.jpg'}			], 
+    		    {word : 'sugar free'}, 
+    			{word : 'emmision free'}, 
+    			{word : 'fat free'}, 
+    			{word : 'interest free'}, 
+    			{word : 'gluten free'}, 
+    			{word : 'gravity free'}			], 
 			//Stimulus css
 			stimulusCss : {color:'#31940F','font-size':'1.8em'}
 		},	
